@@ -1,0 +1,1903 @@
+Timestamp: 11-05-2021 12:24
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:22
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:23
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01
+Usernames: marty added new employee n
+*
+Timestamp: 11-05-2021 03:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:31
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:32
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:34
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 03:55
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 04:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 04:03
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 576d501d-45d5-4ae9-a17f-1c50038de57c
+Usernames: marty removed employee admin
+*
+Timestamp: 11-05-2021 04:03
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 07:42
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 07:43
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:01
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:01
+Action: User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 has viewed details of resident with the ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: n viewed resident details of: James Bond
+*
+Timestamp: 11-05-2021 08:01
+Action: User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 11-05-2021 08:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 08:04
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 08:10
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 08:11
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: a9bdecf5-ee7c-471c-add2-8f96f7f199fe
+Usernames: marty added new employee doc
+*
+Timestamp: 11-05-2021 08:12
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 9bfc027d-1c36-49c5-bc3e-784e7f7d49c5
+Usernames: marty removed employee test
+*
+Timestamp: 11-05-2021 08:12
+User with ID: a9bdecf5-ee7c-471c-add2-8f96f7f199fe Username: doc has logged into the system.
+*
+Timestamp: 11-05-2021 08:12
+User with ID: a9bdecf5-ee7c-471c-add2-8f96f7f199fe added prescription to resident with ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: doc added prescription to resident with name: James Bond
+Prescription details: Paracetamol: TUESDAY at 19:00, 3 doses, Weekly
+*
+Timestamp: 11-05-2021 08:13
+Action: User with ID: a9bdecf5-ee7c-471c-add2-8f96f7f199fe has viewed details of resident with the ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: doc viewed resident details of: James Bond
+*
+Timestamp: 11-05-2021 08:13
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:32
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:37
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 11-05-2021 08:41
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:42
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:43
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:43
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:45
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:46
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:47
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 08:52
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 09:28
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 09:39
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 09:42
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 11-05-2021 09:56
+User with ID: 6fef6e14-551b-4530-ac21-1676cc21a634 Username: n has logged into the system.
+*
+Timestamp: 12-05-2021 08:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 08:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 4f44033c-fe40-4285-8afc-424680c5613a
+Usernames: marty added new employee data
+*
+Timestamp: 12-05-2021 08:19
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 08:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 0676a14e-7819-488b-811f-45c89090ee0f
+Usernames: marty added new employee db
+*
+Timestamp: 12-05-2021 08:24
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 08:24
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 30064963-d91c-4787-ac14-cb44e420de97
+Usernames: marty added new employee d
+*
+Timestamp: 12-05-2021 09:17
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:17
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: a3759520-eebc-4933-a3ce-1da28156dc39
+Usernames: marty added new employee d
+*
+Timestamp: 12-05-2021 09:19
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:19
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: ca97cf7a-2c88-4198-8d48-e990a05455dc
+Usernames: marty added new employee r
+*
+Timestamp: 12-05-2021 09:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: a3759520-eebc-4933-a3ce-1da28156dc39
+Usernames: marty removed employee d
+*
+Timestamp: 12-05-2021 09:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 30064963-d91c-4787-ac14-cb44e420de97
+Usernames: marty removed employee d
+*
+Timestamp: 12-05-2021 09:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 0676a14e-7819-488b-811f-45c89090ee0f
+Usernames: marty removed employee db
+*
+Timestamp: 12-05-2021 09:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 9c4cfd79-fa9b-4f61-add3-26c565f9f17a
+Usernames: marty added new employee d
+*
+Timestamp: 12-05-2021 09:23
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:23
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: c0d681b4-7fa3-4953-bb80-27ad41d47d66
+Usernames: marty added new employee f
+*
+Timestamp: 12-05-2021 09:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: a3759520-eebc-4933-a3ce-1da28156dc39
+Usernames: marty removed employee d
+*
+Timestamp: 12-05-2021 09:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 30064963-d91c-4787-ac14-cb44e420de97
+Usernames: marty removed employee d
+*
+Timestamp: 12-05-2021 09:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 0676a14e-7819-488b-811f-45c89090ee0f
+Usernames: marty removed employee db
+*
+Timestamp: 12-05-2021 09:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: cc137584-b79f-4b3f-a418-fdf52b038ee0
+Usernames: marty added new employee d
+*
+Timestamp: 12-05-2021 09:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: b6b48a54-3f81-4e1e-b2e5-cc465a253e05
+Usernames: marty added new employee asdf
+*
+Timestamp: 12-05-2021 09:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:37
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: cc137584-b79f-4b3f-a418-fdf52b038ee0
+Usernames: marty removed employee d
+*
+Timestamp: 12-05-2021 09:37
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: b3b7aad0-27f1-47e7-a5f1-c2a7efc05cbc
+Usernames: marty added new employee asdf
+*
+Timestamp: 12-05-2021 09:37
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: b3b7aad0-27f1-47e7-a5f1-c2a7efc05cbc
+Usernames: marty removed employee asdf
+*
+Timestamp: 12-05-2021 09:37
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 35796875-68c9-4d8f-8adf-715364418a16
+Usernames: marty added new employee asdf
+*
+Timestamp: 12-05-2021 09:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: a13ada8a-a8ae-4f4a-9978-ab66ac2b6deb
+Usernames: marty added new employee asdf
+*
+Timestamp: 12-05-2021 09:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 12-05-2021 09:40
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 0550ee3e-b447-4370-8314-41ccc0a8aaf0
+Usernames: marty added new employee asdf
+*
+Timestamp: 18-05-2021 08:17
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 790f78c5-1da4-415e-84b5-69ac44dc5bde
+Usernames: marty added new employee marty
+*
+Timestamp: 18-05-2021 08:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 790f78c5-1da4-415e-84b5-69ac44dc5bde
+Usernames: marty removed employee marty
+*
+Timestamp: 18-05-2021 08:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: f77ecabe-1e7b-48df-a774-7ee146ddd5da
+Usernames: marty added new employee marty
+*
+Timestamp: 18-05-2021 08:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: f77ecabe-1e7b-48df-a774-7ee146ddd5da
+Usernames: marty removed employee marty
+*
+Timestamp: 18-05-2021 08:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 51a45227-18a8-4b9f-816e-aeffa167fb21
+Usernames: marty added new employee marty
+*
+Timestamp: 18-05-2021 08:21
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:21
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 updated employee with ID: 51a45227-18a8-4b9f-816e-aeffa167fb21
+Usernames: marty updated employee marty2
+*
+Timestamp: 18-05-2021 08:21
+User with ID: 51a45227-18a8-4b9f-816e-aeffa167fb21 Username: marty2 has logged into the system.
+*
+Timestamp: 18-05-2021 08:22
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:22
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 51a45227-18a8-4b9f-816e-aeffa167fb21
+Usernames: marty removed employee marty2
+*
+Timestamp: 18-05-2021 08:23
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 6fef6e14-551b-4530-ac21-1676cc21a634
+Usernames: marty removed employee n
+*
+Timestamp: 18-05-2021 08:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:34
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:48
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 08:48
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: cc137584-b79f-4b3f-a418-fdf52b038ee0
+Usernames: marty removed employee d
+*
+Timestamp: 18-05-2021 08:48
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 4d80b9d9-6226-408f-aecc-2ecf8b5435e6
+Usernames: marty added new employee d
+*
+Timestamp: 18-05-2021 09:07
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 18-05-2021 09:07
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 18-05-2021 09:07
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has viewed details of resident with the ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: n viewed resident details of: James Bond
+*
+Timestamp: 18-05-2021 09:08
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 18-05-2021 09:10
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 18-05-2021 09:10
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has added a resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has added a resident: Edna McAully
+*
+Timestamp: 18-05-2021 09:10
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has removed resident: Edna McAully
+*
+Timestamp: 18-05-2021 09:10
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 18-05-2021 09:20
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 18-05-2021 09:21
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has added a resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has added a resident: Edna McAully
+*
+Timestamp: 18-05-2021 09:21
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has removed resident: Edna McAully
+*
+Timestamp: 18-05-2021 09:23
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 18-05-2021 09:23
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 19-05-2021 09:40
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 4d80b9d9-6226-408f-aecc-2ecf8b5435e6
+Usernames: marty removed employee d
+*
+Timestamp: 24-05-2021 03:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 03:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 9971b23e-b9ce-4dd7-8e22-3b5a472cc15e
+Usernames: marty added new employee n
+*
+Timestamp: 24-05-2021 03:57
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 03:57
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 04:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 04:03
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 04:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 04:26
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: a9bdecf5-ee7c-471c-add2-8f96f7f199fe
+Usernames: marty removed employee doc
+*
+Timestamp: 24-05-2021 04:26
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 1537fa13-dd36-4798-bed5-3697670adec1
+Usernames: marty added new employee doc
+*
+Timestamp: 24-05-2021 05:01
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 05:02
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has added a resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has added a resident: Edna McAully
+*
+Timestamp: 24-05-2021 05:02
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has removed resident: Edna McAully
+*
+Timestamp: 24-05-2021 05:02
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 24-05-2021 05:04
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 05:11
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 05:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 05:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 9971b23e-b9ce-4dd7-8e22-3b5a472cc15e
+Usernames: marty removed employee n
+*
+Timestamp: 24-05-2021 05:19
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 05:20
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 05:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 05:37
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 05:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: a3443e99-426d-4dd9-9ecb-45ad235601f6
+Usernames: marty added new employee ny
+*
+Timestamp: 24-05-2021 05:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: a3443e99-426d-4dd9-9ecb-45ad235601f6
+Usernames: marty removed employee ny
+*
+Timestamp: 24-05-2021 05:51
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 05:51
+Action: User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 24-05-2021 07:14
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 07:15
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 07:18
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 07:19
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 07:21
+User with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01 Username: n has logged into the system.
+*
+Timestamp: 24-05-2021 07:33
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:15
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:15
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:28
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:29
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 24-05-2021 09:53
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:01
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 3de918d4-e288-4688-b77f-377fbf6b0c01
+Usernames: marty removed employee n
+*
+Timestamp: 25-05-2021 10:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 57d36005-44f3-4e79-8c23-7a9b247ec7c2
+Usernames: marty added new employee nurse
+*
+Timestamp: 25-05-2021 10:27
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:30
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 3fbc37ed-1529-413f-8578-379e9c799f6e
+Username: marty has added a resident: Lara Croft
+*
+Timestamp: 25-05-2021 10:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 57d36005-44f3-4e79-8c23-7a9b247ec7c2
+Usernames: marty removed employee nurse
+*
+Timestamp: 25-05-2021 10:31
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 3db89e32-5b26-4d57-af03-c596ed4605d2
+Usernames: marty added new employee nurse
+*
+Timestamp: 25-05-2021 10:35
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:35
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 68ada0ea-12da-4c6d-bd18-721926356f4f
+Usernames: marty added new employee nn
+*
+Timestamp: 25-05-2021 10:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: e60151d2-6d85-4920-9a45-eac59ec93638
+Usernames: marty added new employee g
+*
+Timestamp: 25-05-2021 10:40
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: e60151d2-6d85-4920-9a45-eac59ec93638
+Usernames: marty removed employee g
+*
+Timestamp: 25-05-2021 10:40
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 57d36005-44f3-4e79-8c23-7a9b247ec7c2
+Usernames: marty removed employee nurse
+*
+Timestamp: 25-05-2021 10:40
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 0550ee3e-b447-4370-8314-41ccc0a8aaf0
+Usernames: marty removed employee asdf
+*
+Timestamp: 25-05-2021 10:41
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 98760717-9e09-495c-8ff1-112bc3d2335f
+Username: marty has added a resident: Lara Croft
+*
+Timestamp: 25-05-2021 10:41
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 10:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: a3e4533e-4ed8-4625-9f2a-db4587640e19
+Usernames: marty added new employee r
+*
+Timestamp: 25-05-2021 11:48
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:48
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: e360f67b-733e-48e4-805c-c4cf793c9962
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:50
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: e360f67b-733e-48e4-805c-c4cf793c9962
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:50
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: b84f0003-7253-40f0-a15a-1ae40d1733c4
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:51
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:51
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: b84f0003-7253-40f0-a15a-1ae40d1733c4
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:51
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: f827e1f5-f8f7-4ceb-b29e-3ccde6c96eb5
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:54
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:54
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: f827e1f5-f8f7-4ceb-b29e-3ccde6c96eb5
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:54
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: dea5e88d-846f-41b6-9c06-c4d408209b9f
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:56
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: dea5e88d-846f-41b6-9c06-c4d408209b9f
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:56
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 1ff37b1a-4e99-4ea6-adfa-6ee21bc1b76c
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 11:58
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 1ff37b1a-4e99-4ea6-adfa-6ee21bc1b76c
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 11:58
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 6ae72529-d04c-453d-ab85-5aa702c33bad
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:01
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 12:01
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 6ae72529-d04c-453d-ab85-5aa702c33bad
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:01
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 59a79a2d-62ae-463c-846d-5da9dd11687e
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:05
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 12:05
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 59a79a2d-62ae-463c-846d-5da9dd11687e
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:06
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: marty has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:07
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 12:07
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: a3e4533e-4ed8-4625-9f2a-db4587640e19
+Usernames: marty removed employee r
+*
+Timestamp: 25-05-2021 12:08
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875
+Usernames: marty added new employee n
+*
+Timestamp: 25-05-2021 12:08
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 12:09
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 25-05-2021 12:09
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has added a resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:09
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has removed resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:09
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has viewed details of resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n viewed resident details of: Marco Polo
+*
+Timestamp: 25-05-2021 12:11
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 12:12
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 1537fa13-dd36-4798-bed5-3697670adec1
+Usernames: marty removed employee doc
+*
+Timestamp: 25-05-2021 12:12
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: bd426f4a-f84d-464b-9965-94bcc3a0e3ad
+Usernames: marty added new employee doc
+*
+Timestamp: 25-05-2021 12:13
+User with ID: bd426f4a-f84d-464b-9965-94bcc3a0e3ad Username: doc has logged into the system.
+*
+Timestamp: 25-05-2021 12:14
+User with ID: bd426f4a-f84d-464b-9965-94bcc3a0e3ad added prescription to resident with ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: doc added prescription to resident with name: Marco Polo
+Prescription details: Panadol: THURSDAY at 14:00, 3 doses, Weekly
+*
+Timestamp: 25-05-2021 12:15
+Action: User with ID: bd426f4a-f84d-464b-9965-94bcc3a0e3ad has viewed details of resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: doc viewed resident details of: Marco Polo
+*
+Timestamp: 25-05-2021 12:15
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 25-05-2021 12:16
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has added a resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:16
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has removed resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 12:17
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has viewed details of resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n viewed resident details of: Marco Polo
+*
+Timestamp: 25-05-2021 02:08
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 02:09
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 91ec9230-8663-40b2-a1af-d57f564b85eb
+Username: marty has added a resident: new res new
+*
+Timestamp: 25-05-2021 02:09
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 91ec9230-8663-40b2-a1af-d57f564b85eb
+Username: marty has removed resident: new res new
+*
+Timestamp: 25-05-2021 02:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136
+Usernames: marty added new employee t
+*
+Timestamp: 25-05-2021 02:12
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 0eb3f359-38db-409c-9d7c-f1a546f3ba33
+Usernames: marty added new employee n2
+*
+Timestamp: 25-05-2021 02:12
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 0eb3f359-38db-409c-9d7c-f1a546f3ba33
+Usernames: marty removed employee n2
+*
+Timestamp: 25-05-2021 02:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: bd426f4a-f84d-464b-9965-94bcc3a0e3ad
+Usernames: marty removed employee doc
+*
+Timestamp: 25-05-2021 02:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 66190f3c-20e3-4081-b358-e5e40c276cdc
+Usernames: marty added new employee doc
+*
+Timestamp: 25-05-2021 02:14
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 25-05-2021 02:14
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has added a resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has added a resident: Marco Polo
+*
+Timestamp: 25-05-2021 02:14
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has removed resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: n has removed resident: Marco Polo
+*
+Timestamp: 25-05-2021 02:15
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has viewed details of resident with the ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: n viewed resident details of: James Bond
+*
+Timestamp: 25-05-2021 02:15
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 25-05-2021 02:17
+User with ID: 66190f3c-20e3-4081-b358-e5e40c276cdc Username: doc has logged into the system.
+*
+Timestamp: 25-05-2021 02:17
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 02:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 02:18
+User with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136 Username: t has logged into the system.
+*
+Timestamp: 25-05-2021 02:19
+Action: User with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136 has viewed details of resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: t viewed resident details of: Marco Polo
+*
+Timestamp: 25-05-2021 02:19
+User with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136 deleted prescription to resident with ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: t deleted prescription to resident with name: Marco Polo
+Deleted prescription details: Panadol: THURSDAY at 14:00, 3 doses, Weekly
+*
+Timestamp: 25-05-2021 02:19
+User with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136 added prescription to resident with ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: t added prescription to resident with name: Marco Polo
+Prescription details: panadol: WEDNESDAY at 13:00, 4 doses, Weekly
+*
+Timestamp: 25-05-2021 02:54
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 25-05-2021 02:55
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 66190f3c-20e3-4081-b358-e5e40c276cdc
+Usernames: marty removed employee doc
+*
+Timestamp: 25-05-2021 02:55
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 6886b0f5-0356-427e-9593-fbcf5626a58b
+Usernames: marty added new employee doc
+*
+Timestamp: 25-05-2021 03:40
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 25-05-2021 03:42
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has added a resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has added a resident: Edna McAully
+*
+Timestamp: 25-05-2021 03:42
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has removed resident: Edna McAully
+*
+Timestamp: 25-05-2021 03:44
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has added a resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has added a resident: Edna McAully
+*
+Timestamp: 25-05-2021 03:44
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n has removed resident: Edna McAully
+*
+Timestamp: 25-05-2021 03:48
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 25-05-2021 03:48
+Action: User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 has viewed details of resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: n viewed resident details of: Edna McAully
+*
+Timestamp: 31-05-2021 07:09
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:11
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:12
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:13
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:14
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:15
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:17
+User with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875 Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 07:19
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 31-05-2021 07:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 93535aab-1dc1-4738-9fc9-31db66332fce
+Usernames: marty added new employee nn
+*
+Timestamp: 31-05-2021 07:20
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 07:23
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 07:23
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 07:26
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:53
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:54
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:55
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:56
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:57
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 08:57
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 09:00
+User with ID: 93535aab-1dc1-4738-9fc9-31db66332fce Username: nn has logged into the system.
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 3ffd8d21-afbb-46d6-8297-050c58efb089
+Usernames: marty removed employee kirsty
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 8f7c2843-7f8f-4b16-b78b-60e653d70875
+Usernames: marty removed employee n
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 4be6ef95-4b8c-4daa-a472-30b4443a5136
+Usernames: marty removed employee t
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 6886b0f5-0356-427e-9593-fbcf5626a58b
+Usernames: marty removed employee doc
+*
+Timestamp: 31-05-2021 09:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 93535aab-1dc1-4738-9fc9-31db66332fce
+Usernames: marty removed employee nn
+*
+Timestamp: 31-05-2021 09:10
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f
+Usernames: marty added new employee n
+*
+Timestamp: 31-05-2021 09:10
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: marty has added a resident: Super Man
+*
+Timestamp: 31-05-2021 09:10
+User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 09:11
+Action: User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f has viewed details of resident with the ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: n viewed resident details of: Super Man
+*
+Timestamp: 31-05-2021 09:13
+User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 09:15
+User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 09:19
+User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 09:22
+User with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f Username: n has logged into the system.
+*
+Timestamp: 31-05-2021 09:31
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 31-05-2021 09:31
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 743f3396-9984-4597-bbba-f20b7234b3c3
+Usernames: marty added new employee d
+*
+Timestamp: 31-05-2021 09:31
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 Username: d has logged into the system.
+*
+Timestamp: 31-05-2021 09:32
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 added prescription to resident with ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d added prescription to resident with name: Super Man
+Prescription details: Panadol: WEDNESDAY at 17:00, 3 doses, Weekly
+*
+Timestamp: 31-05-2021 09:32
+Action: User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 has viewed details of resident with the ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d viewed resident details of: Super Man
+*
+Timestamp: 31-05-2021 09:32
+Action: User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 has viewed details of resident with the ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d viewed resident details of: Super Man
+*
+Timestamp: 31-05-2021 09:51
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 Username: d has logged into the system.
+*
+Timestamp: 31-05-2021 09:51
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 added prescription to resident with ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d added prescription to resident with name: Super Man
+Prescription details: Vitamin D: SUNDAY at 18:00, 6 doses, Weekly
+*
+Timestamp: 31-05-2021 10:00
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 31-05-2021 10:00
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 Username: d has logged into the system.
+*
+Timestamp: 31-05-2021 10:00
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 deleted prescription to resident with ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d deleted prescription to resident with name: Super Man
+Deleted prescription details: Vitamin D: SUNDAY at 18:00, 6 doses, Weekly
+*
+Timestamp: 31-05-2021 10:00
+User with ID: 743f3396-9984-4597-bbba-f20b7234b3c3 added prescription to resident with ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: d added prescription to resident with name: Super Man
+Prescription details: Vit D: SATURDAY at 7:00, 4 doses, Weekly
+*
+Timestamp: 01-06-2021 05:52
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 05:53
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f
+Usernames: marty removed employee n
+*
+Timestamp: 01-06-2021 05:53
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 2167c446-f98c-43ff-b620-fa67941d2db2
+Usernames: marty added new employee n
+*
+Timestamp: 01-06-2021 05:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 05:56
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: ee424ea8-1b87-4a29-8bc6-e16f7b4a9d8f
+Usernames: marty removed employee n
+*
+Timestamp: 01-06-2021 05:57
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8
+Usernames: marty added new employee n
+*
+Timestamp: 01-06-2021 05:57
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 743f3396-9984-4597-bbba-f20b7234b3c3
+Usernames: marty removed employee d
+*
+Timestamp: 01-06-2021 05:57
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82
+Usernames: marty added new employee d
+*
+Timestamp: 01-06-2021 05:57
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: ab513a9b-648e-4668-8f11-b23b7b56c694
+Username: marty has removed resident: Super Man
+*
+Timestamp: 01-06-2021 05:58
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: marty has added a resident: Super Man
+*
+Timestamp: 01-06-2021 05:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 05:59
+User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 Username: n has logged into the system.
+*
+Timestamp: 01-06-2021 05:59
+Action: User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 has viewed details of resident with the ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: n viewed resident details of: Super Man
+*
+Timestamp: 01-06-2021 06:00
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 06:00
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 Username: d has logged into the system.
+*
+Timestamp: 01-06-2021 06:00
+Action: User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 has viewed details of resident with the ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: d viewed resident details of: Super Man
+*
+Timestamp: 01-06-2021 06:00
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 added prescription to resident with ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: d added prescription to resident with name: Super Man
+Prescription details: Paracetamol: TUESDAY at 16:00, 4 doses, Weekly
+*
+Timestamp: 01-06-2021 06:18
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 Username: d has logged into the system.
+*
+Timestamp: 01-06-2021 06:18
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 added prescription to resident with ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: d added prescription to resident with name: Super Man
+Prescription details: Panadol: TUESDAY at 18:00, 4 doses, Weekly
+*
+Timestamp: 01-06-2021 06:18
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 deleted prescription to resident with ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: d deleted prescription to resident with name: Super Man
+Deleted prescription details: Paracetamol: TUESDAY at 16:00, 4 doses, Weekly
+*
+Timestamp: 01-06-2021 06:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 06:50
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:08
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:21
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:52
+User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 Username: n has logged into the system.
+*
+Timestamp: 01-06-2021 08:53
+User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 Username: n has logged into the system.
+*
+Timestamp: 01-06-2021 08:54
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:55
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 08:57
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:04
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:34
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:35
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:36
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 09:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 10:22
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 01-06-2021 10:24
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 03:51
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 04:01
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 04:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 04:18
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 0788ff35-0f83-48d7-880f-f3878bc430c7
+Username: marty has added a resident: Wonder Woman
+*
+Timestamp: 02-06-2021 04:19
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 82cc01b6-172d-4707-ad3c-f5dbc51aaee0
+Username: marty has removed resident: James Bond
+*
+Timestamp: 02-06-2021 04:19
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 056e27aa-b4ba-49b0-86a1-5ae78d933a45
+Username: marty has added a resident: James Bond
+*
+Timestamp: 02-06-2021 04:22
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 04:22
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 98760717-9e09-495c-8ff1-112bc3d2335f
+Username: marty has removed resident: Lara Croft
+*
+Timestamp: 02-06-2021 04:23
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: d332e84f-60bf-4c8b-a804-cf7a028a82fe
+Username: marty has added a resident: Lara  Croft
+*
+Timestamp: 02-06-2021 04:23
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: f0fb0330-1c10-46be-b79c-66a07fc8239c
+Username: marty has removed resident: Edna McAully
+*
+Timestamp: 02-06-2021 04:23
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: e453547a-e897-4fd9-9182-77020ec9c17a
+Username: marty has removed resident: Marco Polo
+*
+Timestamp: 02-06-2021 04:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 04:25
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 9abe97b7-002e-48a6-ae03-e29dc93c4d60
+Username: marty has removed resident: Super Man
+*
+Timestamp: 02-06-2021 05:32
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 05:46
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 05:47
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 05:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 05:59
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:03
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:43
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:44
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:45
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:47
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:48
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:49
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 06:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:05
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:06
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:14
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:15
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:17
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:18
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:20
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:21
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:23
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 07:45
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:44
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:45
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:46
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:47
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:49
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 08:59
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:00
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:02
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:06
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:26
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:40
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 32cbbefe-3495-4186-a19b-7d9c6ea68853
+Username: marty has added a resident: dasdfasdfasdasdfsdfasdfasioioioioioioioioioiooijaosidjfoiajszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz aasdfasdfasd
+*
+Timestamp: 02-06-2021 09:40
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: 32cbbefe-3495-4186-a19b-7d9c6ea68853
+Username: marty has removed resident: dasdfasdfasdasdfsdfasdfasioioioioioioioioioiooijaosidjfoiajszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz aasdfasdfasd
+*
+Timestamp: 02-06-2021 09:52
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:54
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 09:55
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: b8f2d97c-8deb-493f-880c-7b0e167ad572
+Username: marty has added a resident: ffffffffffffffffffffffffffffff ffffff
+*
+Timestamp: 02-06-2021 09:55
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has removed resident with the ID: b8f2d97c-8deb-493f-880c-7b0e167ad572
+Username: marty has removed resident: ffffffffffffffffffffffffffffff ffffff
+*
+Timestamp: 02-06-2021 09:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 10:03
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 10:04
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 10:04
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 Username: d has logged into the system.
+*
+Timestamp: 02-06-2021 10:05
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 added prescription to resident with ID: 0788ff35-0f83-48d7-880f-f3878bc430c7
+Username: d added prescription to resident with name: Wonder Woman
+Prescription details: Vitamin B: TUESDAY at 15:00, 4 doses, Monthly
+*
+Timestamp: 02-06-2021 10:05
+Action: User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 has viewed details of resident with the ID: 056e27aa-b4ba-49b0-86a1-5ae78d933a45
+Username: d viewed resident details of: James Bond
+*
+Timestamp: 02-06-2021 10:05
+Action: User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 has viewed details of resident with the ID: 0788ff35-0f83-48d7-880f-f3878bc430c7
+Username: d viewed resident details of: Wonder Woman
+*
+Timestamp: 02-06-2021 10:05
+Action: User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 has viewed details of resident with the ID: d332e84f-60bf-4c8b-a804-cf7a028a82fe
+Username: d viewed resident details of: Lara  Croft
+*
+Timestamp: 02-06-2021 10:05
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 added prescription to resident with ID: d332e84f-60bf-4c8b-a804-cf7a028a82fe
+Username: d added prescription to resident with name: Lara  Croft
+Prescription details: Panadol: SUNDAY at 17:00, 7 doses, Monthly
+*
+Timestamp: 02-06-2021 10:06
+Action: User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 has viewed details of resident with the ID: 056e27aa-b4ba-49b0-86a1-5ae78d933a45
+Username: d viewed resident details of: James Bond
+*
+Timestamp: 02-06-2021 10:06
+User with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82 added prescription to resident with ID: 056e27aa-b4ba-49b0-86a1-5ae78d933a45
+Username: d added prescription to resident with name: James Bond
+Prescription details: Paracetamol: SATURDAY at 22:00, 12 doses, Weekly
+*
+Timestamp: 02-06-2021 10:07
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 10:07
+Action: User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 has added a resident with the ID: 6c744f9e-57ec-4569-9cf1-0bd443c027ea
+Username: marty has added a resident: Jean-Luc Picard
+*
+Timestamp: 02-06-2021 10:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 updated employee with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82
+Usernames: marty updated employee d
+*
+Timestamp: 02-06-2021 10:15
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 27578feb-7788-4209-bd68-b6b5ce4dbe82
+Usernames: marty removed employee d
+*
+Timestamp: 02-06-2021 10:16
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 6e317d76-d6cd-41aa-afb9-c8c73c3e7474
+Usernames: marty added new employee d
+*
+Timestamp: 02-06-2021 10:29
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 02-06-2021 10:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 73c307a2-63db-4ef2-a13b-4fb2e9adf01b
+Usernames: marty added new employee j
+*
+Timestamp: 02-06-2021 10:30
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 73c307a2-63db-4ef2-a13b-4fb2e9adf01b
+Usernames: marty removed employee j
+*
+Timestamp: 04-06-2021 05:58
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 06:01
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:01
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:01
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:05
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:05
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:05
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:08
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:08
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:08
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 06:09
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: 0292c6a0-5c29-497b-ab3c-dc911b0cf5e4
+Usernames: marty added new employee dd
+*
+Timestamp: 04-06-2021 06:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 06:13
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: 0292c6a0-5c29-497b-ab3c-dc911b0cf5e4
+Usernames: marty removed employee dd
+*
+Timestamp: 04-06-2021 06:14
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: dc3e84a7-ce9d-417e-bc89-7303ff91eaa1
+Usernames: marty added new employee test
+*
+Timestamp: 04-06-2021 06:14
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 removed employee with ID: dc3e84a7-ce9d-417e-bc89-7303ff91eaa1
+Usernames: marty removed employee test
+*
+Timestamp: 04-06-2021 06:14
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:14
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:14
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:20
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:20
+User with ID: b6b5daef-0267-49aa-8be8-2375f826f83f Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:20
+User with ID: b6b5daef-0267-49aa-8be8-2375f826f83f removed employee with ID: 96838277-6b86-4400-8839-7422f8cab4f9
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:20
+User with ID: b6b5daef-0267-49aa-8be8-2375f826f83f added new employee with ID: 8aa0ba02-be08-455f-8e0e-eb67e9557217
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:20
+User with ID: b6b5daef-0267-49aa-8be8-2375f826f83f added new employee with ID: 3fda7fcb-da37-484d-999b-6d04fa84a0e2
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:22
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:22
+User with ID: b55d511b-bd84-4818-8693-c80dc1f2ccec Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:22
+User with ID: b55d511b-bd84-4818-8693-c80dc1f2ccec removed employee with ID: aee450d9-992e-4797-a72c-dfabb9f51b3a
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:22
+User with ID: b55d511b-bd84-4818-8693-c80dc1f2ccec added new employee with ID: 6ac5aa7e-7e57-481a-946a-5de2ba968381
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:22
+User with ID: b55d511b-bd84-4818-8693-c80dc1f2ccec added new employee with ID: 4937d384-5552-45fe-8758-410642251e55
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:24
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:24
+User with ID: 19e46bba-67f1-42a3-9ede-cfc31ffb75da Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:24
+User with ID: 19e46bba-67f1-42a3-9ede-cfc31ffb75da removed employee with ID: 36b8aa5c-d821-4667-aa15-a17f9ab3d9bc
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:24
+User with ID: 19e46bba-67f1-42a3-9ede-cfc31ffb75da added new employee with ID: a2cef88c-326a-4e89-a747-c67f3f1a3b50
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:24
+User with ID: 19e46bba-67f1-42a3-9ede-cfc31ffb75da added new employee with ID: 693ff1e3-a231-4fe4-afdf-6cc691cc1bfa
+Usernames: manager added new employee John
+*
+Timestamp: 04-06-2021 06:24
+User with ID: 19e46bba-67f1-42a3-9ede-cfc31ffb75da added new employee with ID: 8da6e006-9198-4a4a-8fe2-eb177b9d93fb
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:26
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 53564411-0fd4-465a-85f4-c2a071d41d16 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 53564411-0fd4-465a-85f4-c2a071d41d16 removed employee with ID: 4eff2d42-ff01-469d-a1de-d04dfa17277d
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 53564411-0fd4-465a-85f4-c2a071d41d16 added new employee with ID: 5812de98-c036-4244-a77c-37d31bf39f6e
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 53564411-0fd4-465a-85f4-c2a071d41d16 added new employee with ID: 6cbcc219-1dd5-4a98-b96a-5f7534547430
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:26
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 106825bd-2f4a-42e6-94d3-a43acd185199 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 106825bd-2f4a-42e6-94d3-a43acd185199 removed employee with ID: 360778e3-a770-4c14-ac16-f21a5ea1eb7a
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 106825bd-2f4a-42e6-94d3-a43acd185199 added new employee with ID: 9a79ea44-624e-4530-8aa7-ac8d3e5222de
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:26
+User with ID: 106825bd-2f4a-42e6-94d3-a43acd185199 added new employee with ID: c2b14a19-abcf-4a7e-9751-653cbe25dfe7
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:27
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:27
+User with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:27
+User with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a removed employee with ID: a1b5d8cf-a9e6-4f69-a18b-5ea7b072ce37
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:27
+User with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a removed employee with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a
+Usernames: manager removed employee manager
+*
+Timestamp: 04-06-2021 06:27
+User with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a added new employee with ID: 63362312-4307-4c6f-a5d4-04bb008d7eb9
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:27
+User with ID: 1e0baa8b-7e74-4df9-99ef-e65b65af111a added new employee with ID: 47b1072d-04e8-42e6-9759-aede50621b92
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:28
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:28
+User with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:28
+User with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598 removed employee with ID: 46c71de9-f2e8-41cd-a3a9-72fa1e5f9117
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:28
+User with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598 removed employee with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598
+Usernames: manager removed employee manager
+*
+Timestamp: 04-06-2021 06:28
+User with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598 added new employee with ID: b5774333-05af-435a-8fd2-f1fa45067510
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:28
+User with ID: 5b4f4f71-6c99-472b-ab50-7c4b268a4598 added new employee with ID: 17172184-bc7b-4c66-80c4-8e8a9c95f1f1
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:29
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:34
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:34
+User with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:34
+User with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c removed employee with ID: 027c2ff6-5887-4952-bb1a-d99eef380761
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:34
+User with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c removed employee with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c
+Usernames: manager removed employee manager
+*
+Timestamp: 04-06-2021 06:34
+User with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c added new employee with ID: c9f5c0f2-41f5-4640-9870-77b74477b2c6
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:34
+User with ID: 58ddfdf1-3cc4-4393-8a9d-f0de7c6e881c added new employee with ID: a600aab7-60bd-47cf-a2ca-a703b9919a64
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:37
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:37
+User with ID: 0feef6f5-5f74-4b66-b3df-119d84e7c980 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:37
+User with ID: 0feef6f5-5f74-4b66-b3df-119d84e7c980 removed employee with ID: 997a3700-5d98-4d40-8136-068d44c75b2c
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:37
+User with ID: 0feef6f5-5f74-4b66-b3df-119d84e7c980 added new employee with ID: bb09fcf9-76b3-4b3f-ace6-4e7afb0af674
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:37
+User with ID: 0feef6f5-5f74-4b66-b3df-119d84e7c980 added new employee with ID: 8c2a47e2-70d9-4fcb-a7a3-59f9e6a8a035
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:39
+Application run for the first time
+*
+Timestamp: 04-06-2021 06:39
+User with ID: 10281e5d-5c5c-4e8d-9857-c9b0bfbc6f31 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 06:39
+User with ID: 10281e5d-5c5c-4e8d-9857-c9b0bfbc6f31 removed employee with ID: c1e9b96e-946e-4fd3-9d66-75b0a42a1d2a
+Usernames: manager removed employee Jane
+*
+Timestamp: 04-06-2021 06:39
+User with ID: 10281e5d-5c5c-4e8d-9857-c9b0bfbc6f31 added new employee with ID: 437523c1-074e-4b49-87b4-79cdfede67d5
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 06:39
+User with ID: 10281e5d-5c5c-4e8d-9857-c9b0bfbc6f31 added new employee with ID: 48f12fc8-fcee-41ce-a22b-94b3bff9000b
+Usernames: manager added new employee Jane
+*
+Timestamp: 04-06-2021 07:10
+User with ID: 4ecb8f64-9cb1-4855-95ab-57147a0f7d3a Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:10
+User with ID: 7da9f604-2b3e-44c3-a167-82cb8d17990c Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:10
+Action: User with ID: 7da9f604-2b3e-44c3-a167-82cb8d17990c has added a resident with the ID: b7e00b78-711b-460d-971c-8f0afbf4efa9
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:10
+Action: User with ID: 7da9f604-2b3e-44c3-a167-82cb8d17990c has added a resident with the ID: b7e00b78-711b-460d-971c-8f0afbf4efa9
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:11
+User with ID: bc51fa94-a995-4d7a-944a-1da3d83cc1a4 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:11
+User with ID: dddbb5b1-1cec-4017-ac5c-aacc537e054d Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:11
+Action: User with ID: dddbb5b1-1cec-4017-ac5c-aacc537e054d has added a resident with the ID: 3c078f6d-555a-468b-9fa9-2b83e9866a17
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:11
+Action: User with ID: dddbb5b1-1cec-4017-ac5c-aacc537e054d has added a resident with the ID: 3c078f6d-555a-468b-9fa9-2b83e9866a17
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:13
+User with ID: df1407ce-f1e8-4a6c-91a0-5adaa2a0ff3c Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:13
+User with ID: baabc3b1-da65-49d4-843a-86ad48062b25 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:13
+Action: User with ID: baabc3b1-da65-49d4-843a-86ad48062b25 has added a resident with the ID: 894b9f73-cd7a-4d3b-813b-dc0a5c05c153
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:13
+Action: User with ID: baabc3b1-da65-49d4-843a-86ad48062b25 has added a resident with the ID: 894b9f73-cd7a-4d3b-813b-dc0a5c05c153
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:13
+Action: User with ID: baabc3b1-da65-49d4-843a-86ad48062b25 has added a resident with the ID: 0fbdf8a3-9463-40e1-85e5-94e43ce574a9
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:13
+Action: User with ID: baabc3b1-da65-49d4-843a-86ad48062b25 has added a resident with the ID: 0fbdf8a3-9463-40e1-85e5-94e43ce574a9
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:14
+User with ID: 9a388bb1-01f5-405d-a969-f4f5e42289c8 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:14
+User with ID: b23bc7ab-40da-458f-8252-51b110db82aa Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:14
+Action: User with ID: b23bc7ab-40da-458f-8252-51b110db82aa has added a resident with the ID: 8a99bd92-554c-4e26-9db9-752ab9e99906
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:14
+Action: User with ID: b23bc7ab-40da-458f-8252-51b110db82aa has added a resident with the ID: 8a99bd92-554c-4e26-9db9-752ab9e99906
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:14
+User with ID: 3678e7c2-d0b1-4ad3-8c22-43aa6b51c220 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:14
+User with ID: 1da2475a-236e-4b1c-a8dd-fe4d41702e20 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:14
+Action: User with ID: 1da2475a-236e-4b1c-a8dd-fe4d41702e20 has added a resident with the ID: 0696b1d3-bb6d-4a91-89e0-cb782a5ec67b
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:14
+Action: User with ID: 1da2475a-236e-4b1c-a8dd-fe4d41702e20 has added a resident with the ID: 0696b1d3-bb6d-4a91-89e0-cb782a5ec67b
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:16
+User with ID: e92de5ba-a7a5-4697-bca0-0a73c563f22d Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:16
+User with ID: a93ebf30-4de5-4146-ae4f-db46b610ff19 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:16
+Action: User with ID: a93ebf30-4de5-4146-ae4f-db46b610ff19 has added a resident with the ID: 09d2dceb-48b3-4a3c-a3f3-71ea020d40fc
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:16
+Action: User with ID: a93ebf30-4de5-4146-ae4f-db46b610ff19 has added a resident with the ID: 09d2dceb-48b3-4a3c-a3f3-71ea020d40fc
+Username: manager has added a resident: John Doe
+*
+Timestamp: 04-06-2021 07:18
+User with ID: 155953c0-209f-420a-8534-7f2a1ebeef47 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:18
+User with ID: 3de48248-6fc1-4ce0-8fd2-f170d0827d3e Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:18
+Action: User with ID: 3de48248-6fc1-4ce0-8fd2-f170d0827d3e has added a resident with the ID: 5a3aabf5-cd8c-48b1-a893-8061eaed70bd
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:18
+Action: User with ID: 3de48248-6fc1-4ce0-8fd2-f170d0827d3e has added a resident with the ID: 5a3aabf5-cd8c-48b1-a893-8061eaed70bd
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:26
+User with ID: 41d16ec4-3c57-426b-890e-048ca57f5a30 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:26
+User with ID: 7ab66d9b-a3db-4705-9b1a-83143d89037b Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:26
+Action: User with ID: 7ab66d9b-a3db-4705-9b1a-83143d89037b has added a resident with the ID: 6cde94d9-7508-442b-a72b-3021ff7ccf62
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:26
+Action: User with ID: 7ab66d9b-a3db-4705-9b1a-83143d89037b has added a resident with the ID: 6cde94d9-7508-442b-a72b-3021ff7ccf62
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:26
+User with ID: 7484ffc1-2dab-4d5c-b6db-886239f397fc Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:26
+Action: User with ID: 7484ffc1-2dab-4d5c-b6db-886239f397fc has removed resident with the ID: 6cde94d9-7508-442b-a72b-3021ff7ccf62
+Username: manager has removed resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:26
+Action: User with ID: 7484ffc1-2dab-4d5c-b6db-886239f397fc has removed resident with the ID: 6c744f9e-57ec-4569-9cf1-0bd443c027ea
+Username: manager has removed resident: Jean-Luc Picard
+*
+Timestamp: 04-06-2021 07:38
+User with ID: 9384a0df-aab9-41ed-b9e7-6855f522aa50 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:38
+User with ID: 76c67ec9-7edc-4374-a25a-e892f46ea30a Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:38
+Action: User with ID: 76c67ec9-7edc-4374-a25a-e892f46ea30a has added a resident with the ID: 57d05668-4136-478b-bc8e-4f45b0254268
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:38
+Action: User with ID: 76c67ec9-7edc-4374-a25a-e892f46ea30a has added a resident with the ID: 57d05668-4136-478b-bc8e-4f45b0254268
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:38
+User with ID: 34733167-f3e5-4aa4-974d-e00057d2f5bd Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:38
+Action: User with ID: 34733167-f3e5-4aa4-974d-e00057d2f5bd has removed resident with the ID: 57d05668-4136-478b-bc8e-4f45b0254268
+Username: manager has removed resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:38
+Action: User with ID: 34733167-f3e5-4aa4-974d-e00057d2f5bd has removed resident with the ID: 6c744f9e-57ec-4569-9cf1-0bd443c027ea
+Username: manager has removed resident: Jean-Luc Picard
+*
+Timestamp: 04-06-2021 07:38
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 07:39
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 07:39
+User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 Username: n has logged into the system.
+*
+Timestamp: 04-06-2021 07:39
+Action: User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 has added a resident with the ID: 0788ff35-0f83-48d7-880f-f3878bc430c7
+Username: n has added a resident: Wonder Woman
+*
+Timestamp: 04-06-2021 07:39
+Action: User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 has removed resident with the ID: 0788ff35-0f83-48d7-880f-f3878bc430c7
+Username: n has removed resident: Wonder Woman
+*
+Timestamp: 04-06-2021 07:40
+User with ID: 3f644057-ef47-4a11-8c6e-b73d295626e8 Username: n has logged into the system.
+*
+Timestamp: 04-06-2021 07:47
+User with ID: 26b20fac-03f9-41cc-9255-90835dab3a88 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:47
+User with ID: 8553c92a-7078-476e-9653-f96412da3e95 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:47
+Action: User with ID: 8553c92a-7078-476e-9653-f96412da3e95 has added a resident with the ID: d38a3293-01f6-4e45-ade8-bbe190fc42ad
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:47
+User with ID: e1e18fb8-7caf-467a-bf24-bdf009e1db93 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:47
+Action: User with ID: e1e18fb8-7caf-467a-bf24-bdf009e1db93 has added a resident with the ID: 6a5eefeb-511a-4fd7-8662-c1b1ead50043
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:47
+Action: User with ID: e1e18fb8-7caf-467a-bf24-bdf009e1db93 has added a resident with the ID: 6a5eefeb-511a-4fd7-8662-c1b1ead50043
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:47
+User with ID: c029b8a2-d71f-431b-b793-9bf99a387983 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:47
+Action: User with ID: c029b8a2-d71f-431b-b793-9bf99a387983 has removed resident with the ID: f2194ac5-0fcc-4b22-a5fd-d9c636b9f097
+Username: manager has removed resident: John Doe
+*
+Timestamp: 04-06-2021 07:47
+Action: User with ID: c029b8a2-d71f-431b-b793-9bf99a387983 has removed resident with the ID: 6c744f9e-57ec-4569-9cf1-0bd443c027ea
+Username: manager has removed resident: Jean-Luc Picard
+*
+Timestamp: 04-06-2021 07:51
+User with ID: 56ade9ea-017c-4e35-8283-347674cbdba6 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:51
+User with ID: f7b7b3c8-b544-4281-ae4e-fc33bf00cfd5 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: f7b7b3c8-b544-4281-ae4e-fc33bf00cfd5 has added a resident with the ID: 05c60e82-cbce-4a04-a582-bec233065ce1
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: f7b7b3c8-b544-4281-ae4e-fc33bf00cfd5 has removed resident with the ID: 951c2509-e93c-4035-8526-d37ac6df55d7
+Username: manager has removed resident: John Doe
+*
+Timestamp: 04-06-2021 07:51
+User with ID: 69a7ad9e-6e4c-448f-a27a-a42e5f6394b3 Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: 69a7ad9e-6e4c-448f-a27a-a42e5f6394b3 has added a resident with the ID: 91f65269-ee61-484b-a61e-0ee8a200d4ce
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: 69a7ad9e-6e4c-448f-a27a-a42e5f6394b3 has added a resident with the ID: 91f65269-ee61-484b-a61e-0ee8a200d4ce
+Username: manager has added a resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:51
+User with ID: 781ea07a-9de5-49f1-ac09-fc490b75da7e Username: manager has logged into the system.
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: 781ea07a-9de5-49f1-ac09-fc490b75da7e has removed resident with the ID: 91f65269-ee61-484b-a61e-0ee8a200d4ce
+Username: manager has removed resident: Jane Doe
+*
+Timestamp: 04-06-2021 07:51
+Action: User with ID: 781ea07a-9de5-49f1-ac09-fc490b75da7e has removed resident with the ID: 6c744f9e-57ec-4569-9cf1-0bd443c027ea
+Username: manager has removed resident: Jean-Luc Picard
+*
+Timestamp: 04-06-2021 09:24
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 Username: marty has logged into the system.
+*
+Timestamp: 04-06-2021 09:25
+User with ID: 16e0949f-426e-4b01-83ed-4b8316241ed2 added new employee with ID: d0253ee0-490d-4738-bac5-c68dce2638e5
+Usernames: marty added new employee admin
+*
+Timestamp: 04-06-2021 09:31
+User with ID: d0253ee0-490d-4738-bac5-c68dce2638e5 Username: admin has logged into the system.
+*
+Timestamp: 04-06-2021 09:31
+User with ID: d0253ee0-490d-4738-bac5-c68dce2638e5 Username: admin has logged into the system.
+*
+Timestamp: 04-06-2021 09:32
+Action: User with ID: d0253ee0-490d-4738-bac5-c68dce2638e5 has added a resident with the ID: a8a98fa1-a516-453b-be77-77a8a9eb6022
+Username: admin has added a resident: John Howard
+*

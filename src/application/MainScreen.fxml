@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainController">
+   <children>
+      <HBox alignment="CENTER_RIGHT" prefHeight="20.0" prefWidth="200.0">
+         <children>
+            <Label text="Logged in: " />
+            <Label fx:id="lblLoggedIn" text="Label" textFill="#03c42d">
+               <padding>
+                  <Insets left="10.0" right="10.0" />
+               </padding>
+            </Label>
+            <Button mnemonicParsing="false" onAction="#logout" text="Logout">
+               <padding>
+                  <Insets left="10.0" right="10.0" />
+               </padding>
+            </Button>
+         </children>
+      </HBox>
+      <TabPane prefHeight="427.0" prefWidth="690.0" tabClosingPolicy="UNAVAILABLE">
+        <tabs>
+          <Tab fx:id="tabRooms" text="Rooms">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                     <children>
+                        <ScrollPane hbarPolicy="NEVER" prefHeight="300.0" prefWidth="700.0" vbarPolicy="NEVER">
+                           <content>
+                              <HBox alignment="CENTER" prefHeight="300.0" prefWidth="700.0" style="-fx-background-color: #ffffff;">
+                                 <children>
+                                    <AnchorPane prefHeight="300.0" prefWidth="295.0">
+                                       <children>
+                                          <GridPane fx:id="gridWard1" gridLinesVisible="true" layoutX="32.0" layoutY="32.0" prefHeight="236.0" prefWidth="230.0" style="-fx-background-color: #baced4;">
+                                            <columnConstraints>
+                                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                              <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                            </columnConstraints>
+                                            <rowConstraints>
+                                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                            </rowConstraints>
+                                             <children>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_1" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="41.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_2" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="14.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_3" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_4" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_5" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_6" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_7" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_8" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_9" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_10" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_11" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="2">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_12" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_13" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_14" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_15" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_1_16" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_17" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_18" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_1_19" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                             </children>
+                                          </GridPane>
+                                          <Label layoutX="32.0" layoutY="14.0" text="WARD 1" />
+                                       </children>
+                                    </AnchorPane>
+                                    <AnchorPane prefHeight="300.0" prefWidth="295.0">
+                                       <children>
+                                          <GridPane fx:id="gridWard2" gridLinesVisible="true" layoutX="32.0" layoutY="32.0" prefHeight="236.0" prefWidth="230.0" style="-fx-background-color: #baced4;">
+                                             <columnConstraints>
+                                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                             </columnConstraints>
+                                             <rowConstraints>
+                                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                             </rowConstraints>
+                                             <children>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_1" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="41.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_2" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="14.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_3" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="26.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_4" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_5" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_6" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_7" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_8" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_9" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_10" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_11" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="2">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_12" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_13" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_14" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_15" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                                <AnchorPane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                                                   <children>
+                                                      <Rectangle fx:id="bed_2_16" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_17" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="10.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_18" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="15.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                      <Rectangle fx:id="bed_2_19" arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="25.0" layoutX="66.0" layoutY="45.0" onMouseClicked="#selectBed" stroke="BLACK" strokeType="INSIDE" width="35.0" />
+                                                   </children>
+                                                </AnchorPane>
+                                             </children>
+                                          </GridPane>
+                                          <Label layoutX="32.0" layoutY="14.0" text="WARD 2" />
+                                       </children>
+                                    </AnchorPane>
+                                 </children>
+                              </HBox>
+                           </content>
+                        </ScrollPane>
+                        <Label layoutX="14.0" layoutY="308.0" text="Selected Bed: " />
+                        <Label fx:id="lblSelectedBed" layoutX="96.0" layoutY="308.0" />
+                        <Button fx:id="buttonAddResident" layoutX="14.0" layoutY="359.0" mnemonicParsing="false" onAction="#addResident" text="Add Resident" />
+                        <Button fx:id="buttonCheckDetails" layoutX="468.0" layoutY="359.0" mnemonicParsing="false" onAction="#displayResidentDetails" text="Check Details" />
+                        <Button fx:id="buttonMoveResident" layoutX="231.0" layoutY="359.0" mnemonicParsing="false" onAction="#moveResident" text="Move Resident" />
+                        <Button fx:id="buttonNewPrescription" layoutX="563.0" layoutY="359.0" mnemonicParsing="false" onAction="#prescriptionDetails" text="Edit Prescription" />
+                        <Label fx:id="lblInstruction" layoutX="316.0" layoutY="308.0" textFill="#ff1616">
+                           <font>
+                              <Font size="14.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="14.0" layoutY="328.0" text="Selected Resident:" />
+                        <Label fx:id="lblSelectedResident" layoutX="117.0" layoutY="328.0" />
+                        <Button fx:id="buttonRemoveResident" layoutX="112.0" layoutY="359.0" mnemonicParsing="false" onAction="#deleteResident" text="Remove Resident" />
+                        <Button fx:id="buttonAdminMedicine" layoutX="335.0" layoutY="359.0" mnemonicParsing="false" onAction="#administerMedicine" text="Administer Medicine" />
+                     </children></AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="tabEmployees" text="Employees">
+            <content>
+              <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="761.0">
+                     <children>
+                        <TextField fx:id="firstName" layoutX="14.0" layoutY="52.0" />
+                        <Button layoutX="443.0" layoutY="109.0" mnemonicParsing="false" onAction="#addEmployee" prefHeight="26.0" prefWidth="70.0" text="Add" />
+                        <TextField fx:id="surname" layoutX="174.0" layoutY="52.0" />
+                        <Label layoutX="14.0" layoutY="35.0" text="First Name" />
+                        <Label layoutX="174.0" layoutY="35.0" text="Surname" />
+                        <ChoiceBox fx:id="employeeTypeChoiceBox" layoutX="336.0" layoutY="52.0" prefWidth="150.0" />
+                        <Label layoutX="336.0" layoutY="35.0" text="Job Role" />
+                        <DatePicker fx:id="datePicker" layoutX="499.0" layoutY="52.0" />
+                        <Label layoutX="499.0" layoutY="35.0" text="DOB" />
+                        <TextField fx:id="username" layoutX="14.0" layoutY="110.0" />
+                        <TextField fx:id="password" layoutX="174.0" layoutY="110.0" />
+                        <Label layoutX="15.0" layoutY="91.0" text="Username" />
+                        <Label layoutX="174.0" layoutY="91.0" text="Password" />
+                        <Button fx:id="buttonDelete" layoutX="523.0" layoutY="109.0" mnemonicParsing="false" onAction="#updateEmployee" prefHeight="26.0" prefWidth="70.0" text="Update" />
+                        <Button fx:id="buttonDelete" layoutX="603.0" layoutY="109.0" mnemonicParsing="false" onAction="#deleteEmployee" prefHeight="26.0" prefWidth="70.0" text="Delete" />
+                        <TableView fx:id="employeeTableView" layoutX="42.0" layoutY="164.0" onMousePressed="#selectEmployee" prefHeight="220.0" prefWidth="599.0">
+                          <columns>
+                            <TableColumn fx:id="firstNameCol" prefWidth="168.79998016357422" text="First Name" />
+                            <TableColumn fx:id="surnameCol" minWidth="0.0" prefWidth="166.4000244140625" text="Surname" />
+                              <TableColumn fx:id="dobCol" prefWidth="120.79998779296875" text="DOB" />
+                              <TableColumn fx:id="jobCol" prefWidth="142.40005493164062" text="Job Role" />
+                          </columns>
+                        </TableView>
+                        <Button layoutX="363.0" layoutY="109.0" mnemonicParsing="false" onAction="#clearAll" prefHeight="26.0" prefWidth="70.0" text="Clear All" />
+                     </children>
+                  </AnchorPane>
+            </content>
+          </Tab>
+          <Tab fx:id="tabShifts" text="Shifts">
+             <content>
+                 <BorderPane>
+                    <center>
+                       <VBox maxWidth="600.0" minHeight="350.0" minWidth="400.0" prefHeight="350.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+                          <children>
+                             <GridPane>
+                               <columnConstraints>
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="90.0" prefWidth="100.0" />
+                                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                 <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                                   <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                               </columnConstraints>
+                               <rowConstraints>
+                                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                               </rowConstraints>
+                                <children>
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Monday" GridPane.columnIndex="1" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Tuesday" GridPane.columnIndex="2" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Wednesday" GridPane.columnIndex="3" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Thursday" GridPane.columnIndex="4" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Friday" GridPane.columnIndex="5" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Saturday" GridPane.columnIndex="6" />
+                                   <Label alignment="CENTER" prefHeight="18.0" prefWidth="94.0" text="Sunday" GridPane.columnIndex="7" />
+                                   <Label text="Select Start Time:" GridPane.rowIndex="1" />
+                                   <Label text="Shift Start/End:" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblMondayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblTuesdayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblWednesdayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblThursdayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblFridayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblSaturdayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+                                   <Label fx:id="lblSundayShiftTime" alignment="CENTER" prefWidth="90.0" text="-" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+                                   <ComboBox fx:id="cmbMonday" prefWidth="150.0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbTuesday" prefWidth="150.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbWednesday" prefWidth="150.0" GridPane.columnIndex="3" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbThursday" prefWidth="150.0" GridPane.columnIndex="4" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbFriday" prefWidth="150.0" GridPane.columnIndex="5" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbSaturday" prefWidth="150.0" GridPane.columnIndex="6" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                   <ComboBox fx:id="cmbSunday" prefWidth="150.0" GridPane.columnIndex="7" GridPane.rowIndex="1">
+                                      <GridPane.margin>
+                                         <Insets left="5.0" right="5.0" />
+                                      </GridPane.margin>
+                                      <padding>
+                                         <Insets left="-5.0" right="-5.0" />
+                                      </padding>
+                                   </ComboBox>
+                                </children>
+                             </GridPane>
+                             <TableView fx:id="schedule_employeeTableView" onMousePressed="#selectShiftList" prefHeight="200.0" prefWidth="600.0">
+                                <columns>
+                                   <TableColumn fx:id="schedule_firstNameCol" prefWidth="168.79998016357422" text="First Name" />
+                                   <TableColumn fx:id="schedule_surnameCol" minWidth="0.0" prefWidth="166.4000244140625" text="Surname" />
+                                   <TableColumn fx:id="schedule_jobCol" prefWidth="142.40005493164062" text="Job Role" />
+                                </columns>
+                                <VBox.margin>
+                                   <Insets top="15.0" />
+                                </VBox.margin>
+                             </TableView>
+                             <Label fx:id="lblCompliance" text="X - SCHEDULE OUT OF COMPLIANCE! THERE NEEDS TO BE AT LEAST ONE (1) NURSE ASSIGNED TO EACH MORNING AND EACH AFTERNOON SHIFT. THERE NEEDS TO BE ONE (1) DOCTOR ASSIGNED PER DAY (ANYTIME BETWEEN 9AM - 5PM)." textFill="#ea1a1a" wrapText="true">
+                                <font>
+                                   <Font name="System Bold" size="12.0" />
+                                </font>
+                             </Label>
+                          </children>
+                       </VBox>
+                    </center>
+                    <top>
+                       <Label fx:id="lblSelectedName" textFill="#5151e7" BorderPane.alignment="CENTER">
+                          <font>
+                             <Font name="MS Reference Sans Serif" size="14.0" />
+                          </font>
+                       </Label>
+                    </top>
+                 </BorderPane>
+             </content>
+           </Tab>
+   		  <Tab fx:id="tabAudit" text="Audit">
+          	<content>
+          	   <BorderPane>
+				   <center>
+				      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0">
+				         <children>
+				            <Label layoutX="50.0" layoutY="24.0" text="Select date range for Audit Report" />
+				            <DatePicker fx:id="dateAuditStart" layoutX="54.0" layoutY="58.0" />
+				            <Label layoutX="239.0" layoutY="62.0" text="To" />
+				            <DatePicker fx:id="dateAuditEnd" layoutX="262.0" layoutY="58.0" />
+				            <Button layoutX="461.0" layoutY="141.0" mnemonicParsing="false" onAction="#auditReport" text="Create Report" />
+				            <Label layoutX="50.0" layoutY="106.0" text="Select resident for Audit Report" />
+				            <ComboBox fx:id="cmbAuditResident" layoutX="54.0" layoutY="140.0" onMouseClicked="#displayAuditResidents" prefHeight="26.0" prefWidth="175.0" visibleRowCount="12" />
+				            <Label layoutX="256.0" layoutY="106.0" text="Select employee for Audit Report" />
+				            <ComboBox fx:id="cmbAuditEmployee" layoutX="261.0" layoutY="141.0" onMouseClicked="#displayAuditEmployees" prefHeight="26.0" prefWidth="175.0" visibleRowCount="12" />
+				         </children>
+				      </AnchorPane>
+				   </center>
+				</BorderPane>
+        	</content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </children>
+</VBox>
