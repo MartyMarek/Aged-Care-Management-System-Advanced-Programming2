@@ -6,7 +6,9 @@ The project was created in Eclipse and saved as a general archive file.
 It can be reproduced in eclipse by creating a new project, then importing the “Assignment2.zip” archive file into that project. All files have been saved, including the database files, serialization files and text files that are used by the application. 
 
 Java version used: Java SE 15 (jdk 15.0.2)
+
 JavaFX used: javafx sdk 16
+
 Eclipse used: Version 2020-12
 
 ## Design Decisions
